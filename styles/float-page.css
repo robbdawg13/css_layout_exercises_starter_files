@@ -10,3 +10,14 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+img{
+	width: 300px;
+	height: 300px;
+	margin: 10px;
+}
+.nebula{
+	float: left;
+}
+.stars{
+	float:right;
+}
